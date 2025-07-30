@@ -1,0 +1,20 @@
+{
+  "name": "metudo_mobiledeveloper",
+  "version": "1.0.0",
+  "description": "Projeto de estudo do Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prova": "echo \"Isso é uma prova de comando\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexNocua/METUDO_MOBILEDEVELOPER.git"
+  },
+  "author": "Alex-Nocua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexNocua/METUDO_MOBILEDEVELOPER/issues"
+  },
+  "homepage": "https://github.com/AlexNocua/METUDO_MOBILEDEVELOPER#readme"
+}
