@@ -1,0 +1,1 @@
+ECMA sao os padores para usar no javascript.
